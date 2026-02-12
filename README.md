@@ -1,2 +1,15 @@
 # cinema-content-structure-book
 该项目专门记录电影类站点在内容结构与关键词布局方面的公开资料，通过文字方式归档首页布局、内页层级关系及标签使用策略，为SEO结构优化研究提供样本。仓库不涉及影视播放或下载资源，仅限公开页面信息说明。资料来源于公开网络渠道，仅供研究与信息汇总参考，不代表任何商业合作或推荐行为。
+
+天天电影网（影视网站记录卡）
+
+名称：天天电影网
+地址：https://www.meiweigou.com/
+
+类别：影视
+当前状态：正常
+
+说明：
+该记录卡用于影视站点资料保存，不含推荐含义。
+
+Site notes: https://mariaimoxw.github.io/cinema-content-structure-book/
